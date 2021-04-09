@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=SetInterface
+comment1.params=element
+comment1.target=boolean\ contains(java.lang.Object)
+comment1.text=\r\n\ Checks\ if\ the\ specified\ element\ is\ in\ this\ set.\r\n\ @param\ \ element\ \ the\ element\ whose\ presence\ in\ this\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ set\ is\ to\ be\ tested\r\n\ @return\ \ \ \ \ \ \ \ \ \ true\ if\ this\ set\ contains\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ specified\ element\r\n
+comment2.params=element
+comment2.target=boolean\ remove(java.lang.Object)
+comment2.text=\r\n\ Removes\ the\ specified\ element\ from\ this\ set\ if\ it\ is\r\n\ present.\r\n\ @param\ \ element\ \ the\ element\ to\ be\ removed,\ if\ present\r\n\ @return\ \ \ \ \ \ \ \ \ \ true\ if\ this\ set\ contained\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ specified\ element\r\n
+comment3.params=element
+comment3.target=boolean\ add(java.lang.Object)
+comment3.text=\r\n\ Adds\ the\ specified\ element\ to\ this\ set\ if\ it\ is\ not\r\n\ already\ present.\r\n\ @param\ \ element\ \ the\ element\ to\ be\ added\ to\ this\ set\r\n\ @return\ \ \ \ \ \ \ \ \ \ true\ if\ this\ set\ did\ not\ already\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ contain\ the\ specified\ element\r\n
+comment4.params=
+comment4.target=int\ length()
+comment4.text=\r\n\ Returns\ the\ number\ of\ elements\ in\ this\ set,\ its\r\n\ cardinality\r\n\ @return\ \ the\ cardinality\ of\ this\ set\r\n
+comment5.params=set
+comment5.target=boolean\ subset(SetInterface)
+comment5.text=\r\n\ Compares\ the\ specified\ set\ with\ this\ set\ to\ determine\r\n\ whether\ this\ set\ is\ a\ subset\ of\ the\ specified\ set\:\r\n\ every\ member\ of\ this\ set\ is\ contained\ in\ the\ specified\r\n\ set.\r\n\ @param\ \ set\ \ the\ set\ to\ be\ compared\ to\ with\ this\ set\r\n\ @return\ \ \ \ \ \ \ \ \ \ true\ if\ this\ set\ is\ a\ subset\ of\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ specified\ set\r\n
+comment6.params=set
+comment6.target=boolean\ equals(SetInterface)
+comment6.text=\r\n\ Compares\ the\ specified\ set\ with\ this\ set\ for\ equality\:\r\n\ the\ two\ sets\ have\ the\ same\ size,\ and\ every\ member\ of\r\n\ the\ specified\ set\ is\ contained\ in\ this\ set.\r\n\ @param\ \ element\ \ the\ element\ to\ be\ removed,\ if\ present\r\n\ @return\ \ \ \ \ \ \ \ \ \ true\ if\ this\ set\ contained\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ specified\ element\r\n
+comment7.params=set
+comment7.target=SetInterface\ union(SetInterface)
+comment7.text=\r\n\ Performs\ the\ union\ operation\ on\ two\ sets,\ this\ set\r\n\ and\ the\ set\ specified.\r\n\ @param\ \ set\ \ the\ set\ to\ be\ operated\ with\ this\ set\r\n\ @return\ \ \ \ \ \ a\ set\ containing\ the\ elements\ in\ this\ set\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ the\ set\ specified\ \r\n
+comment8.params=
+comment8.target=void\ clear()
+comment8.text=\r\n\ Removes\ all\ the\ elements\ from\ this\ set.\ The\ set\ will\r\n\ be\ empty\ after\ this\ call.\r\n
+numComments=9

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LinkedSet
+comment1.params=
+comment1.target=LinkedSet()
+comment10.params=
+comment10.target=java.util.Iterator\ iterator()
+comment11.params=
+comment11.target=void\ clear()
+comment12.params=element
+comment12.target=LinkedSet.Node\ getReferenceTo(java.lang.Object)
+comment2.params=element
+comment2.target=boolean\ contains(java.lang.Object)
+comment3.params=element
+comment3.target=boolean\ remove(java.lang.Object)
+comment4.params=element
+comment4.target=boolean\ add(java.lang.Object)
+comment5.params=
+comment5.target=int\ length()
+comment6.params=set
+comment6.target=boolean\ subset(SetInterface)
+comment7.params=set
+comment7.target=boolean\ equals(SetInterface)
+comment8.params=set
+comment8.target=SetInterface\ union(SetInterface)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=13

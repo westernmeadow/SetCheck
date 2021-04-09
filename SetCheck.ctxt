@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SetCheck
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=set\ element
+comment2.target=void\ testContains(SetInterface,\ int)
+comment3.params=set\ element
+comment3.target=void\ testRemove(SetInterface,\ int)
+comment4.params=set\ element
+comment4.target=void\ testAdd(SetInterface,\ int)
+comment5.params=set
+comment5.target=void\ testLength(SetInterface)
+comment6.params=leftSet\ rightSet
+comment6.target=void\ testSubset(SetInterface,\ SetInterface)
+comment7.params=leftSet\ rightSet
+comment7.target=void\ testEquals(SetInterface,\ SetInterface)
+comment8.params=leftSet\ rightSet
+comment8.target=void\ testUnion(SetInterface,\ SetInterface)
+comment9.params=set
+comment9.target=void\ testClear(SetInterface)
+numComments=10
